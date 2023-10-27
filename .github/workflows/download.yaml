@@ -1,0 +1,16 @@
+name: Download
+on: 
+  workflow_dispatch:
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: suisei-cn/actions-download-file@v1.4.0
+        id: downloadfile  # Remember to give an ID if you need the output
+        name: Download the file
+        with:
+          url: "The vendor we are using is [this](https://cdn.jsdelivr.net/npm/workbox-sw@5.1.3/build/workbox-sw.min.js)!"
+          target: public/
+          auto-match: true
+          retry-times: 3

@@ -1,0 +1,18 @@
+name: Blog Post
+on:
+  schedule:
+    # Runs every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  blog-post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG"
+          feed_list: "https://codeinsane.wordpress.com/feed/"
+          commit_message: "Update codeinsane.wordpress.com blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
