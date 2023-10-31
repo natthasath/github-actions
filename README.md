@@ -14,13 +14,13 @@ GitHub Actions: Automate your workflow! Build, test, and deploy code directly fr
 
 ### ✅ Blog Post `blog-post.yaml` with schedule every day: [source](https://github.com/gautamkrishnar/blog-post-workflow)
 
-
+<!-- BLOG:START -->
 - [Fix SSH Error: no matching key exchange method found](https://codeinsane.wordpress.com/2023/08/11/fix-ssh-error-no-matching-key-exchange-method-found/)
 - [How to show Folder .git in Visual Studio Code](https://codeinsane.wordpress.com/2023/08/09/how-to-show-folder-git-in-visual-studio-code/)
 - [Fix Ldap Error Search Configuration Naming Context failed](https://codeinsane.wordpress.com/2023/06/16/fix-ldap-error-search-configuration-naming-context-failed/)
 - [Fix Ubuntu Package Manager Lock: Could not get lock /var/lib/dpkg/lock](https://codeinsane.wordpress.com/2023/06/14/fix-ubuntu-package-manager-lock-could-not-get-lock-var-lib-dpkg-lock/)
 - [Fix Joomla Error Call to a member function](https://codeinsane.wordpress.com/2023/06/02/fix-joomla-error-call-to-a-member-function/)
-
+<!-- BLOG:END -->
 
 ### ✅ Setup Poetry `setup-poetry.yaml` with on push: [source](https://github.com/abatilo/actions-poetry)
 
