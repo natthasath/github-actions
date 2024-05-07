@@ -13,6 +13,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG"
-          feed_list: "https://codeinsane.wordpress.com/feed/"
+          feed_list: "https://codeinsane.dev/feed/"
           commit_message: "Update codeinsane.wordpress.com blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
