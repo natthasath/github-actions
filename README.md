@@ -15,11 +15,11 @@ GitHub Actions: Automate your workflow! Build, test, and deploy code directly fr
 ### ✅ Blog Post `blog-post.yaml` with schedule every day: [source](https://github.com/gautamkrishnar/blog-post-workflow)
 
 <!-- BLOG:START -->
-- [Fix SSH Error: no matching key exchange method found](https://codeinsane.wordpress.com/2023/08/11/fix-ssh-error-no-matching-key-exchange-method-found/)
-- [How to show Folder .git in Visual Studio Code](https://codeinsane.wordpress.com/2023/08/09/how-to-show-folder-git-in-visual-studio-code/)
-- [Fix Ldap Error Search Configuration Naming Context failed](https://codeinsane.wordpress.com/2023/06/16/fix-ldap-error-search-configuration-naming-context-failed/)
-- [Fix Ubuntu Package Manager Lock: Could not get lock /var/lib/dpkg/lock](https://codeinsane.wordpress.com/2023/06/14/fix-ubuntu-package-manager-lock-could-not-get-lock-var-lib-dpkg-lock/)
-- [Fix Joomla Error Call to a member function](https://codeinsane.wordpress.com/2023/06/02/fix-joomla-error-call-to-a-member-function/)
+- [ประกาศย้ายไปเว็บ codeinsane.dev](https://codeinsane.wordpress.com/2024/03/19/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b8%a2%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b9%84%e0%b8%9b%e0%b9%80%e0%b8%a7%e0%b9%87%e0%b8%9a-codeinsane-dev/)
+- [How to Trust Sign Image on Docker](https://codeinsane.wordpress.com/2023/10/31/how-to-trust-sign-image-on-docker/)
+- [Poetry Virtual Environment Command](https://codeinsane.wordpress.com/2023/10/30/poetry-virtual-environment-command/)
+- [How to Rename all Files in Folder use UUID with Power Automate Desktop](https://codeinsane.wordpress.com/2023/10/09/how-to-rename-all-files-in-folder-use-uuid-with-power-automate/)
+- [How to use Web Application Firewall &lpar;WAF&rpar; with Waf2Py](https://codeinsane.wordpress.com/2023/10/05/how-to-use-web-application-firewall-waf-with-waf2py/)
 <!-- BLOG:END -->
 
 ### ✅ Setup Poetry `setup-poetry.yaml` with on push: [source](https://github.com/abatilo/actions-poetry)
