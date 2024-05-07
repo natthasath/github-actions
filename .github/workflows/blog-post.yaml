@@ -14,5 +14,5 @@ jobs:
         with:
           comment_tag_name: "BLOG"
           feed_list: "https://codeinsane.dev/feed/"
-          commit_message: "Update codeinsane.wordpress.com blog posts"
+          commit_message: "Update codeinsane.dev blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
