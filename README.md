@@ -17,6 +17,12 @@ GitHub Actions: Automate your workflow! Build, test, and deploy code directly fr
 <!-- BLOG:START -->
 <!-- BLOG:END -->
 
+- Fix Backstage Error: Could not Fetch Catalog Entities
+- How to Enable Ransomware Protection on Windows 11
+- How to Trust Sign Image on Docker
+- How to Rename all Files in Folder use UUID with Power Automate Desktop
+- How to use Web Application Firewall (WAF) with Waf2Py
+
 ### ✅ Setup Poetry `setup-poetry.yaml` with on push: [source](https://github.com/abatilo/actions-poetry)
 
 - Use command generate poetry virtualenv in project
